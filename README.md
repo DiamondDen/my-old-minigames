@@ -1,9 +1,9 @@
 # Minecraft Projects — Screenshot Proofs
 
 Screenshots from commercial Minecraft projects I built as a Java developer at
-[cristalix.gg](https://cristalix.gg) between 2017 and 2022. The source code of these projects is
-private, so these photos are the proof of the work: minigames, custom rendering, procedural
-generation and server-side optimization.
+[cristalix.gg](https://cristalix.gg) between 2017 and 2022, and from a 2025 project. The source
+code of these projects is private, so these photos are the proof of the work: minigames, custom
+rendering, procedural generation and server-side optimization.
 
 | Project | Years | What it is |
 | --- | --- | --- |
@@ -11,6 +11,7 @@ generation and server-side optimization.
 | [ColorControl](#colorcontrol) | 2018 | Team minigame |
 | [SkyBlock](#skyblock) | 2021 | Procedurally generated dungeons and custom item systems |
 | [HitTheMobs](#hitthemobs) | 2019–2022 | Mob arena with hundreds of configurable mobs per location |
+| [Steal Brainrot](#steal-brainrot) | 2025 | Brainrot-stealing server with custom NPCs and shops |
 
 ---
 
@@ -97,6 +98,23 @@ Stress test: hundreds of mobs on a single location while the server stays at 20.
 <img src="photos/hitthemobs-optimization-2022-02-18.jpg" alt="HitTheMobs custom-model mob wave" width="900">
 
 Using custom NMS patches to spawn an EntityPlayer as a regular mob — still at 20 TPS.
+
+---
+
+## Steal Brainrot
+
+*2025 · brainrot-stealing server*
+
+Players steal meme characters from each other's bases while the owners try to defend them.
+
+<img src="photos/steal-brainrot-2025-12-17.jpg" alt="Steal Brainrot base with custom NPC displays and prices" width="900">
+
+A base area: custom character models with floating name tags and prices above them, alongside
+players, pets and a profile overlay.
+
+<img src="photos/steal-brainrot-2025-12-29.jpg" alt="Steal Brainrot fenced enclosure with slot platforms" width="900">
+
+A fenced enclosure with slot platforms for placing characters.
 
 ---
 
